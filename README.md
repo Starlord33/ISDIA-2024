@@ -1,4 +1,4 @@
-Ovarian Tumors Diagnosis and Characterization
+# Ovarian Tumors Diagnosis and Characterization
 
 Overview
 This repository contains the code and resources for a project focused on diagnosing and characterizing ovarian tumors using CT scan images. The solution employs Ensemble Deep Learning techniques and Explainable AI to enhance the interpretability of the model's predictions.
