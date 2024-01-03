@@ -26,7 +26,7 @@ Diagnostic and Characterization Capabilities: Classifies ovarian tumors and prov
 
 Installation
 1. Clone the Repository:
-git clone https://github.com/Starlord33/ovarian-tumors-diagnosis.git
+git clone https://github.com/Starlord33/ISDIA-2024.git
 cd ovarian-tumors-diagnosis
 
 2. Install Dependencies:
